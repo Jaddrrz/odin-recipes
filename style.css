@@ -11,11 +11,14 @@ button {
 button.b0 {
     background: rgb(255, 255, 160);
     text-align: center;
+    padding: 6px;
 }
 
 button.b1 {
     background: rgb(173, 173, 255);
     line-height: 36px;
+    border: dotted black;
+    padding: 8px;
 }
 
 button.b2 {
@@ -54,4 +57,5 @@ h1 {
     margin-right: auto;
     width: 25%;
 }
+
 
